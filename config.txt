@@ -1,6 +1,6 @@
-token=NDg4MzkwMjk5NDI5NjM0MDQ4.Dnbgcw.YP2xWeKj0cEvTCDAnk8AE7Fh-eo
+token=NDgyNTc2NTg2OTc0MDM1OTY5.DnbjWw.AsDP4-t9DyzqVwxsHa0Zn4Dg7U4
 owner=331081268731052042
-prefix=B!
+prefix=b
 game=im ..
 stayinchannel=true
 songinstatus=true
