@@ -1,6 +1,6 @@
 token=NDg4MzkwMjk5NDI5NjM0MDQ4.Dnbgcw.YP2xWeKj0cEvTCDAnk8AE7Fh-eo
 owner=331081268731052042
-prefix=-
-game=test
+prefix=B!
+game=im ..
 stayinchannel=true
 songinstatus=true
