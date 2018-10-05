@@ -1,6 +1,4 @@
-token=NDgyNTc2NTg2OTc0MDM1OTY5.DnbjWw.AsDP4-t9DyzqVwxsHa0Zn4Dg7U4
+token=process.env.BOT_TOKEN
 owner=331081268731052042
 prefix=b
-game=im ..
 stayinchannel=true
-songinstatus=true
